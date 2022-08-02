@@ -1,3 +1,7 @@
+---
+newConfiguration:
+  CA: "N"
+  US: "Y"
 testParameters:
-  CA: N
-  US: N
+  CA: "N"
+  US: "N"
