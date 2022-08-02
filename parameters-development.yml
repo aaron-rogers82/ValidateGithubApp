@@ -2,6 +2,7 @@
 newConfiguration:
   CA: "N"
   US: "Y"
+  US.byo0001.mkt0001.st0123: "N"
 testParameters:
   CA: "N"
   US: "N"
